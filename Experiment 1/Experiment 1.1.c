@@ -3,10 +3,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("Name-Tanya kumari\nSAP ID-590029168");
-	printf("\n----------------------\n");
-	
 	printf("Hello world");
-	
 	return 0;
 }
